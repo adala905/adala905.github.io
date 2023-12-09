@@ -381,7 +381,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/hw07_HTML5 Canvas_atlas_1.png?1700712140512", id:"hw07_HTML5 Canvas_atlas_1"}
+		{src:"images/hw07_HTML5 Canvas_atlas_1.png?1701673721533", id:"hw07_HTML5 Canvas_atlas_1"}
 	],
 	preloads: []
 };
