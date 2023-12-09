@@ -187,7 +187,7 @@ lib.properties = {
 	color: "#0000FF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/自翻書_atlas_1.png?1702124100270", id:"自翻書_atlas_1"}
+		{src:"images/自翻書_atlas_1.png?1702124721579", id:"自翻書_atlas_1"}
 	],
 	preloads: []
 };
